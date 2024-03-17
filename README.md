@@ -20,10 +20,10 @@ Optional things that might help:
 Plugin Documentation:
 FANTASY STATBLOCKS \
 https://plugins.javalent.com/statblocks \
-INITIATIVE TRACKER\
-https://plugins.javalent.com/it\
-DICE ROLLER\
-https://plugins.javalent.com/Dice+Roller/Dice+Roller\
+INITIATIVE TRACKER \
+https://plugins.javalent.com/it \
+DICE ROLLER \
+https://plugins.javalent.com/Dice+Roller/Dice+Roller \
 
 
 
