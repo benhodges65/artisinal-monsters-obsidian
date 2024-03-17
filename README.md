@@ -17,13 +17,13 @@ Optional things that might help:
 - Under Settings -> Initiative Tracker -> display encounter difficulty, Make sure this is switched on and if you scroll down to XP system you can choose what difficulty calculator you want to use such as Mike's Lazy one or the Flee Mortals system.
 - Under settings -> Initiative Tracker -> Players you can add characters from your campaign and their level and then go one section down to "Parties" and add those characters to their respective party, which is especially helpful if running more than one campaign :)
 
-Plugin Documentation: \\
+Plugin Documentation: \
 FANTASY STATBLOCKS \
-https://plugins.javalent.com/statblocks \\
+https://plugins.javalent.com/statblocks \
 INITIATIVE TRACKER \
-https://plugins.javalent.com/it \\
+https://plugins.javalent.com/it \
 DICE ROLLER \
-https://plugins.javalent.com/Dice+Roller/Dice+Roller \\
+https://plugins.javalent.com/Dice+Roller/Dice+Roller \
 
 
 
