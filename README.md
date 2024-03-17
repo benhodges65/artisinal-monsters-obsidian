@@ -26,6 +26,12 @@ DICE ROLLER \
 https://plugins.javalent.com/Dice+Roller/Dice+Roller \
 
 
+Video of Example use:
+
+https://github.com/benhodges65/artisinal-monsters-obsidian/assets/77591479/a2811cb4-da0c-4ae7-8e67-1e79dd4d0b92
+
+
+
 
 5e Artisanal Monster Database Licensing
 The 5e Artisanal Monster Database uses the following content licenses.
