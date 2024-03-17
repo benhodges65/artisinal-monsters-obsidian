@@ -26,6 +26,12 @@ https://plugins.javalent.com/it \
 DICE ROLLER \
 https://plugins.javalent.com/Dice+Roller/Dice+Roller \
 
+Screenshots:
+
+<img width="1191" alt="Screenshot 2024-03-17 at 1 46 33 PM" src="https://github.com/benhodges65/artisinal-monsters-obsidian/assets/77591479/60c69a4f-aec4-4bf5-baed-8377524d07f2">
+
+<img width="1192" alt="Screenshot 2024-03-17 at 1 48 15 PM" src="https://github.com/benhodges65/artisinal-monsters-obsidian/assets/77591479/1380e282-35a5-4473-a99c-3e4fee7cb9c3">
+
 
 Video of Example use:
 
