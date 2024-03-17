@@ -18,12 +18,12 @@ Optional things that might help:
 - Under settings -> Initiative Tracker -> Players you can add characters from your campaign and their level and then go one section down to "Parties" and add those characters to their respective party, which is especially helpful if running more than one campaign :)
 
 Plugin Documentation:
-FANTASY STATBLOCKS
-https://plugins.javalent.com/statblocks
-INITIATIVE TRACKER
-https://plugins.javalent.com/it
-DICE ROLLER
-https://plugins.javalent.com/Dice+Roller/Dice+Roller
+FANTASY STATBLOCKS /n
+https://plugins.javalent.com/statblocks /n
+INITIATIVE TRACKER/n
+https://plugins.javalent.com/it/n
+DICE ROLLER/n
+https://plugins.javalent.com/Dice+Roller/Dice+Roller/n
 
 
 
