@@ -1,4 +1,32 @@
 # artisinal-monsters-obsidian
+
+Hi all! 
+This is a reformatted document is intended to convert Sly Flourish's Artisinal Monster Database to a format usable by the fantasy statblock and initiative tracker plugins in Obidian. This is meant to help lazy gms set up and choose monsters quick! If you have any questions related to the plugins refer to the documentation under the instructions as I am not owner of plugins. 
+
+Use instructions:
+- Download Obsidian (duh)
+- Set up your vault however you want
+- Go to settings(gear icon) and then click "Community Plugins" -> then browse community plugins and search up and install Fantasy Statblocks and Initiative Tracker. Also install Diceroller
+- Once installed go to the settings of Fantasy Statblocks
+- Scroll down to "Import Generic Data"
+- Choose the monsters.json file I have provided to you
+- Ta-da! Should be good to go at base level after this, if you want to enable lazy gm difficulty gauge or other QOL things I will give a tiny spiel below
+
+Optional things that might help:
+- You can also install the "Dice Roller" if you prefer to not use static damage for monsters and mess around with that!
+- Under Settings -> Initiative Tracker -> display encounter difficulty, Make sure this is switched on and if you scroll down to XP system you can choose what difficulty calculator you want to use such as Mike's Lazy one or the Flee Mortals system.
+- Under settings -> Initiative Tracker -> Players you can add characters from your campaign and their level and then go one section down to "Parties" and add those characters to their respective party, which is especially helpful if running more than one campaign :)
+
+Plugin Documentation:
+FANTASY STATBLOCKS
+https://plugins.javalent.com/statblocks
+INITIATIVE TRACKER
+https://plugins.javalent.com/it
+DICE ROLLER
+https://plugins.javalent.com/Dice+Roller/Dice+Roller
+
+
+
 5e Artisanal Monster Database Licensing
 The 5e Artisanal Monster Database uses the following content licenses.
 
