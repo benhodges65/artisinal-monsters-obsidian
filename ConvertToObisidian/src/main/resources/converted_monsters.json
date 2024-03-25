@@ -1,0 +1,214 @@
+[
+  {
+    "ac": 16,
+    "armor_desc": "",
+    "condition_immunities": "",
+    "languages": "the languages it knew in life",
+    "senses": "darkvision 120 ft., passive Perception 17",
+    "skillsaves": {
+      "persuasion": 8,
+      "stealth": 8,
+      "perception": 7
+    },
+    "hp": 142,
+    "damage_immunities": "",
+    "type": "undead",
+    "speed": "Climb 30 ft., Walk 40 ft.",
+    "damage_vulnerabilities": "",
+    "damage_resistances": "necrotic; damage from nonmagical, non-silvered weapons",
+    "cr": 12,
+    "size": "medium",
+    "saves": {
+      "dexterity": 8,
+      "charisma": 8,
+      "wisdom": 7
+    },
+    "subtype": "",
+    "stats": [
+      20,
+      18,
+      20,
+      16,
+      16,
+      18
+    ],
+    "hit_dice": "15d8+75",
+    "name": "Vampire Assassin",
+    "alignment": "",
+    "actions": [
+      {
+        "name": "Grab (Vampire Form Only)",
+        "description": "Melee Weapon Attack: +9 to hit  reach 5 ft.  one target. Hit: 14 (2d8 + 5) bludgeoning damage plus 4 (1d8) necrotic damage. The target is grappled (escape DC 17) and restrained while grappled in this way."
+      },
+      {
+        "name": "Charm",
+        "description": "The vampire targets a creature within 30 feet  forcing it to make a DC 16 Wisdom saving throw. On a failure  the target is charmed by the vampire for 24 hours. While charmed it regards the vampire as a trusted friend and is a willing target for the vampires bite. The target repeats the saving throw each time it takes damage  ending the effect on itself on a success. If the targets saving throw is successful or the effect ends for it  it is immune to this vampires Charm for 24 hours."
+      }
+    ]
+  },
+  {
+    "ac": 18,
+    "armor_desc": "natural armor",
+    "condition_immunities": false,
+    "languages": "Common, Draconic, Elvish, Sylvan",
+    "senses": "passive Perception 17",
+    "skillsaves": {
+      "Perception": 7,
+      "Performance": 12,
+      "Deception": 12,
+      "Persuasion": 12
+    },
+    "hp": 187,
+    "damage_immunities": "fire",
+    "type": "fey",
+    "speed": "Walk 30 ft.",
+    "damage_vulnerabilities": false,
+    "damage_resistances": false,
+    "cr": 11,
+    "size": "medium",
+    "saves": {
+      "dexterity": 8,
+      "charisma": 12,
+      "constitution": 8
+    },
+    "subtype": "",
+    "stats": [
+      17,
+      18,
+      18,
+      17,
+      16,
+      26
+    ],
+    "hit_dice": "22d8 + 88",
+    "name": "Abominable Beauty",
+    "alignment": "neutral evil",
+    "actions": [
+      {
+        "name": "Multiattack",
+        "description": "The abominable beauty uses Blinding Gaze. She then makes two Slam attacks."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 21 (6d6) fire damage."
+      },
+      {
+        "name": "Blinding Gaze",
+        "description": "The abominable beauty fixes her gaze on a creature within 30 feet of her. If the target can see the beauty\u2019s eyes, the target must succeed on a DC 16 Charisma saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature\u2019s saving throw is successful, the creature is immune to the abominable beauty\u2019s Blinding Gaze for the next 24 hours."
+      },
+      {
+        "name": "Deafening Voice (Recharge 5\u20136)",
+        "description": "The abominable beauty speaks a lilting incantation. Each creature within 30 feet of her and that can hear her voice must make a DC 16 Constitution saving throw. On a failure, a creature takes 31 (9d6) thunder damage and is deafened for 1 hour. On a success, a creature takes half the damage, isn\u2019t deafened, and is immune to the abominable beauty\u2019s Deafening Voice for the next 24 hours."
+      }
+    ]
+  },
+  {
+    "ac": 18,
+    "armor_desc": "natural armor",
+    "condition_immunities": "blinded, poisoned",
+    "languages": "Common, Darakhul, Draconic",
+    "senses": "blindsight 60 ft., tremorsense 120 ft., passive Perception 24",
+    "skillsaves": {
+      "Perception": 14,
+      "Stealth": 7
+    },
+    "hp": 270,
+    "damage_immunities": "poison",
+    "type": "dragon",
+    "speed": "Burrow 40 ft., Walk 40 ft.",
+    "damage_vulnerabilities": false,
+    "damage_resistances": false,
+    "cr": 19,
+    "size": "huge",
+    "saves": {
+      "dexterity": 7,
+      "constitution": 13,
+      "charisma": 9,
+      "wisdom": 8
+    },
+    "subtype": "",
+    "stats": [
+      27,
+      12,
+      25,
+      12,
+      14,
+      16
+    ],
+    "hit_dice": "20d12 + 140",
+    "name": "Adult Cave Dragon",
+    "alignment": "neutral evil",
+    "actions": [
+      {
+        "name": "Multiattack",
+        "description": "The dragon uses its Frightful Presence. It then makes one Bite attack and two Claw attacks."
+      },
+      {
+        "name": "Bite",
+        "description": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage."
+      },
+      {
+        "name": "Claw",
+        "description": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 15 (2d6 + 8) slashing damage."
+      },
+      {
+        "name": "Tail",
+        "description": "Melee Weapon Attack: +14 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage."
+      },
+      {
+        "name": "Frightful Presence",
+        "description": "Each creature of the dragon\u2019s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature\u2019s saving throw is successful or the effect ends for it, the creature is immune to the dragon\u2019s Frightful Presence for the next 24 hours."
+      },
+      {
+        "name": "Poison Breath (Recharge 5\u20136)",
+        "description": "The dragon exhales a cone of black, poisonous gas in a 60-foot cone. Each target in that area must make a DC 21 Constitution saving throw. On a failure, a creature takes 56 (16d6) poison damage and is poisoned until it finishes a short rest. A creature can repeat the saving throw at the end of each hour, ending the effect on itself on a success."
+      }
+    ]
+  },
+  {
+    "ac": 12,
+    "armor_desc": "",
+    "condition_immunities": "charmed, exhaustion, frightened, poisoned",
+    "languages": "understands an ancient language but can\u2019t speak",
+    "senses": "darkvision 60 ft., passive Perception 14",
+    "skillsaves": {
+      "Perception": 4,
+      "Stealth": 4
+    },
+    "hp": 75,
+    "damage_immunities": "poison",
+    "type": "undead",
+    "speed": "Walk 30 ft.",
+    "damage_vulnerabilities": false,
+    "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+    "cr": 4,
+    "size": "medium",
+    "saves": {},
+    "subtype": "",
+    "stats": [
+      19,
+      14,
+      17,
+      6,
+      15,
+      14
+    ],
+    "hit_dice": "10d8 + 30",
+    "name": "Accursed Defiler",
+    "alignment": "neutral evil",
+    "actions": [
+      {
+        "name": "Multiattack",
+        "description": "The accursed defiler makes two Slam attacks."
+      },
+      {
+        "name": "Slam",
+        "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 11 (2d6 + 4) bludgeoning damage. If the accursed defiler scores a critical hit, the target suffers one level of exhaustion."
+      },
+      {
+        "name": "Sandslash (Recharge 5\u20136)",
+        "description": "The accursed defiler intensifies the vortex of sand that surrounds it. Each creature within 10 feet of the accursed defiler must make a DC 14 Dexterity saving throw, taking 21 (6d6) slashing damage on a failed save, or half as much damage on a successful one."
+      }
+    ]
+  }
+]

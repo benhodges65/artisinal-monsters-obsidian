@@ -1,0 +1,146 @@
+[
+  {
+    "ac": 16,
+    "armor_desc": "",
+    "condition_immunities": "",
+    "languages": "the languages it knew in life",
+    "senses": "darkvision 120 ft., passive Perception 17",
+    "skillsaves": {
+      "persuasion": 8,
+      "stealth": 8,
+      "perception": 7
+    },
+    "hp": 142,
+    "damage_immunities": "",
+    "type": "undead",
+    "speed": "Climb 30 ft., Walk 40 ft.",
+    "damage_vulnerabilities": "",
+    "damage_resistances": "necrotic; damage from nonmagical, non-silvered weapons",
+    "cr": 12,
+    "size": "medium",
+    "saves": {
+      "dexterity": 8,
+      "charisma": 8,
+      "wisdom": 7
+    },
+    "subtype": "",
+    "stats": [
+      20,
+      18,
+      20,
+      16,
+      16,
+      18
+    ],
+    "hit_dice": "15d8+75",
+    "name": "Vampire Assassin",
+    "alignment": ""
+  },
+  {
+    "ac": 18,
+    "armor_desc": "natural armor",
+    "condition_immunities": false,
+    "languages": "Common, Draconic, Elvish, Sylvan",
+    "senses": "passive Perception 17",
+    "skillsaves": {
+      "Perception": 7,
+      "Performance": 12,
+      "Deception": 12,
+      "Persuasion": 12
+    },
+    "hp": 187,
+    "damage_immunities": "fire",
+    "type": "fey",
+    "speed": "Walk 30 ft.",
+    "damage_vulnerabilities": false,
+    "damage_resistances": false,
+    "cr": 11,
+    "size": "medium",
+    "saves": {
+      "dexterity": 8,
+      "charisma": 12,
+      "constitution": 8
+    },
+    "subtype": "",
+    "stats": [
+      17,
+      18,
+      18,
+      17,
+      16,
+      26
+    ],
+    "hit_dice": "22d8 + 88",
+    "name": "Abominable Beauty",
+    "alignment": "neutral evil"
+  },
+  {
+    "ac": 18,
+    "armor_desc": "natural armor",
+    "condition_immunities": "blinded, poisoned",
+    "languages": "Common, Darakhul, Draconic",
+    "senses": "blindsight 60 ft., tremorsense 120 ft., passive Perception 24",
+    "skillsaves": {
+      "Perception": 14,
+      "Stealth": 7
+    },
+    "hp": 270,
+    "damage_immunities": "poison",
+    "type": "dragon",
+    "speed": "Burrow 40 ft., Walk 40 ft.",
+    "damage_vulnerabilities": false,
+    "damage_resistances": false,
+    "cr": 19,
+    "size": "huge",
+    "saves": {
+      "dexterity": 7,
+      "constitution": 13,
+      "charisma": 9,
+      "wisdom": 8
+    },
+    "subtype": "",
+    "stats": [
+      27,
+      12,
+      25,
+      12,
+      14,
+      16
+    ],
+    "hit_dice": "20d12 + 140",
+    "name": "Adult Cave Dragon",
+    "alignment": "neutral evil"
+  },
+  {
+    "ac": 12,
+    "armor_desc": "",
+    "condition_immunities": "charmed, exhaustion, frightened, poisoned",
+    "languages": "understands an ancient language but can\u2019t speak",
+    "senses": "darkvision 60 ft., passive Perception 14",
+    "skillsaves": {
+      "Perception": 4,
+      "Stealth": 4
+    },
+    "hp": 75,
+    "damage_immunities": "poison",
+    "type": "undead",
+    "speed": "Walk 30 ft.",
+    "damage_vulnerabilities": false,
+    "damage_resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks",
+    "cr": 4,
+    "size": "medium",
+    "saves": {},
+    "subtype": "",
+    "stats": [
+      19,
+      14,
+      17,
+      6,
+      15,
+      14
+    ],
+    "hit_dice": "10d8 + 30",
+    "name": "Accursed Defiler",
+    "alignment": "neutral evil"
+  }
+]
