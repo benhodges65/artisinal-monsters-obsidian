@@ -5,12 +5,12 @@ This is a reformatted document is intended to convert Sly Flourish's Artisinal M
 
 Use instructions:
 - Download Obsidian (duh)
-- Download the monsters.json file in this repo
+- Download the converted_monsters.json file in this repo
 - Set up your vault however you want
 - Go to settings(gear icon) and then click "Community Plugins" -> then browse community plugins and search up and install Fantasy Statblocks and Initiative Tracker. Also install Dice Roller
 - Once installed go to the settings of Fantasy Statblocks
 - Scroll down to "Import Generic Data"
-- Choose the monsters.json file I have provided to you
+- Choose the converted_monsters.json file I have provided to you
 - Ta-da! Should be good to go at base level after this, if you want to enable lazy gm difficulty gauge or other QOL things I will give a tiny spiel below
 
 Optional things that might help:
