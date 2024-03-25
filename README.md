@@ -1,7 +1,7 @@
 # artisinal-monsters-obsidian
 
 Hi all! 
-This is a reformatted document is intended to convert Sly Flourish's Artisinal Monster Database to a format usable by the fantasy statblock and initiative tracker plugins in Obidian. This is meant to help lazy gms set up and choose monsters quick! If you have any questions related to the plugins refer to the documentation under the instructions as I am not owner of plugins. 
+This is a reformatted document is intended to convert Sly Flourish's Artisinal Monster Database to a format usable by the fantasy statblock and initiative tracker plugins in Obidian. This is meant to help lazy gms set up and choose monsters quick! If you have any questions related to the plugins refer to the documentation under the instructions as I am not owner of plugins. I also can help or assist with any issues if you ping me @ benholder6 on discord or raise an issue on this repo! Thanks!
 
 Use instructions:
 - Download Obsidian (duh)
@@ -37,7 +37,8 @@ Video of Example use:
 
 https://github.com/benhodges65/artisinal-monsters-obsidian/assets/77591479/a2811cb4-da0c-4ae7-8e67-1e79dd4d0b92
 
-
+If you want to use the script:
+Dependencies are in the maven file and other than that script is easy to run if familiar with Java. If using another monster file just set the file location to its respective area. Other than that message me or raise issue if needed. 
 
 
 5e Artisanal Monster Database Licensing
